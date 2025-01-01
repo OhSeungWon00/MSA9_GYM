@@ -215,8 +215,10 @@
 
 
 <details>
-  <summary><h2>🖥️ <strong>운동계획표</strong></h2></summary>
-  ![운동계획표](https://drive.google.com/uc?id=1i_Eu3jcmxAmLOztfJIER5MolzlshGXSJ)
+  <summary><h2>🖥️ **운동계획표**</h2></summary>
+
+  ![운동계획표 화면](https://drive.google.com/uc?id=1i_Eu3jcmxAmLOztfJIER5MolzlshGXSJ)
+
 </details>
 
 
