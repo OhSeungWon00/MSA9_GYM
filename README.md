@@ -154,7 +154,7 @@
 
 ---
 
-## 🎯 **화면 설계서**
+## 📊 **화면 설계서**
 
 <details>
   <summary><h2>🖥️ <strong>관리자</strong></h2></summary>
