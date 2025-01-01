@@ -82,13 +82,13 @@
 <details>
   <summary><h2>🗂️ <strong>테이블 정의서</strong></h2></summary>
 
-  **파일 1**  
+  **user 테이블**  
   ![파일 1](https://drive.google.com/uc?export=view&id=1uIkf6OmogJD5af0uHBwp7YV3TTbpH3VZ)
 
-  **파일 2**  
+  **userAuth 테이블**  
   ![파일 2](https://drive.google.com/uc?export=view&id=1jN24i-GWXzEaQF1ihnPVtD_BxswsBx_r)
 
-  **파일 3**  
+  **trainer_profile 테이블**  
   ![파일 3](https://drive.google.com/uc?export=view&id=1TPs7lZxuO-pEYjJHMdNwJWV61aEUtdf9)
 
   **파일 4**  
