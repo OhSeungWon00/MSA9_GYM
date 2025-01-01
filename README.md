@@ -1,4 +1,4 @@
-![jsp메인]([https://github.com/ybm1968/ChanterLiving/assets/132187402/cfd533d0-73b7-4312-bf76-6c91d1c41f40](https://file.notion.so/f/f/8cd794c0-c633-4008-b289-af6deeea8c4d/fe1fbb5b-4dc0-461a-96a4-bcdabb325a44/image.png?table=block&id=169902bd-b12f-80eb-b7b9-cd98b3b4679a&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&expirationTimestamp=1735797600000&signature=Hwx2BMnWXpEabUZ6HMAb36Xh1CX0Hb89TGhcGjOIr80&downloadName=image.png))
+![jsp메인](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Ffe1fbb5b-4dc0-461a-96a4-bcdabb325a44%2Fimage.png?table=block&id=169902bd-b12f-80eb-b7b9-cd98b3b4679a&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1420&userId=&cache=v2)
 
 
 인테리어 웹페이지 고객관리 미니 프로젝트
