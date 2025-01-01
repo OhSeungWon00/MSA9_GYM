@@ -82,7 +82,7 @@
 <details>
   <summary><h2>🗂️ <strong>테이블 정의서</strong></h2></summary>
 
-  **users **  
+  **users**  
   ![파일 1](https://drive.google.com/uc?export=view&id=1uIkf6OmogJD5af0uHBwp7YV3TTbpH3VZ)
 
   **userAuth**  
