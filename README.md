@@ -157,7 +157,7 @@
 ## 📊 **화면 설계서**
 
 <details>
-  <summary><h2>🖥️ <strong>메인</strong></h2></summary>
+  <summary><h3>🖥️ <strong>메인</strong></h3></summary>
   
   - ![메인 화면 1](https://drive.google.com/uc?id=1yh6VjIbCeInYo-_KqQyW2vTEP7gnNA-F)
   - ![메인 화면 2](https://drive.google.com/uc?id=1hEVSpboUQm9o5r213w3gJHWvmnzdczJ_)  
