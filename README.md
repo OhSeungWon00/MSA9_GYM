@@ -157,7 +157,7 @@
 ---
 
 <details>
-  <summary><h2>📝 <strong>프로젝트 리뷰</strong></h2></summary>
+  <summary><h2>📝 <strong>종합 평가</strong></h2></summary>
   
   - **🏠 메인 화면:** 메인 페이지에서 핵심 기능에 대한 접근 제공  
   - **🧑‍🤝‍🧑 회원가입:** 신규 사용자 등록 및 정보 입력  
