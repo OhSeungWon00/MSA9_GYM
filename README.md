@@ -46,7 +46,7 @@
 ---
 
 ## 📑 **요구사항 정의서**
-[요구사항 정의서 보기](#) *(링크를 여기에 추가하세요.)*
+[요구사항 정의서 보기](#) *([링크를 여기에 추가하세요.](https://docs.google.com/spreadsheets/d/1kvfrutMo9vJB2-mroFGAw3ogBPD_MTsS/edit?usp=sharing&ouid=116083964304156578532&rtpof=true&sd=true))*
 
 ## 📊 **기능 정의서**
 <details>
