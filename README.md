@@ -41,21 +41,6 @@
 
 ![개발 환경 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Fa15b7295-4884-4d79-a760-47e8a23443c3%2Fimage.png?table=block&id=169902bd-b12f-8054-9a60-fc844af24385&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
 
-## 📝 **사용 언어**
-- Java  
-- HTML, CSS, JavaScript  
-
-## 📦 **프레임워크**
-- Spring Boot  
-- Thymeleaf  
-
-## 🛠️ **사용 Tools**
-- Git, GitHub  
-- Figma (UI/UX 디자인)  
-
-## 💾 **사용 DB**
-- MySQL  
-
 ---
 
 ## 📑 **요구사항 정의서**
