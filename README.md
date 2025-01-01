@@ -157,9 +157,9 @@
 <details>
   <summary><h2>🖥️ <strong>스토리보드 (화면 설계서)</strong></h2></summary>
   
-![관리자화면](https://drive.google.com/file/d/1dfZvqbG9ueTYVmzVRbyAmXvDNHe_Joyp/view?usp=drive_link)
-
+  ![관리자화면](https://drive.google.com/uc?id=1dfZvqbG9ueTYVmzVRbyAmXvDNHe_Joyp)
 </details>
+
 
 ---
 
