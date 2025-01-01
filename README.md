@@ -207,11 +207,12 @@
    <summary><h3>📝게시판</h3></summary>
 
   ![게시판 화면 1](https://drive.google.com/uc?id=1uO0LOAOjzWHgF0A5mxLrnHFIxeSXTS-9)  
-  ![게시판 화면 2](https://drive.google.com/uc?id=1mNBK5fr33Wcjmw8RDTuts-yy8jmdKUvD)  
+  ![게시판 화면 2](https://drive.google.com/uc?id=1_kohsYXQ57KAEgcDht8_iUcm63uxQSvD)  
   ![게시판 화면 3](https://drive.google.com/uc?id=1JjJ9nTbHnipXefpZvB7IYKcC4SsOKw-m)  
   ![게시판 화면 4](https://drive.google.com/uc?id=1YqUDhQAAMJrfPLT2eddZouSxMJF62Z61)
 
 </details>
+
 
 
 
