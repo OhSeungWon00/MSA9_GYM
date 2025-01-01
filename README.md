@@ -1,8 +1,12 @@
+
 # 🏋️ **프리미엄 헬스장 관리 시스템**
 
 ![jsp메인](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Ffe1fbb5b-4dc0-461a-96a4-bcdabb325a44%2Fimage.png?table=block&id=169902bd-b12f-80eb-b7b9-cd98b3b4679a&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1420&userId=&cache=v2)
 
+
+
 ## 🎥 **시연 영상 보기** [시연 영상 링크](#) 
+
 
 ## 📚 **주제 선정 및 배경**
 - 현대인의 건강과 운동에 대한 관심이 높아짐에 따라 헬스장은 필수적인 생활공간이며 이용자가 더욱 편리하게 헬스장을 이용할 수 있도록 하기 위함
@@ -34,12 +38,12 @@
 5. **수정 및 확정, 결과보고서 작성**  
 
 ---
-
-## 🛠️ **개발 환경**
 <details>
 ## 🛠️ **개발 환경**
+
+
   
-![개발 환경 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Fa15b7295-4884-4d79-a760-47e8a23443c3%2Fimage.png?table=block&id=169902bd-b12f-8054-9a60-fc844af24385&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
+  ![개발 환경 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Fa15b7295-4884-4d79-a760-47e8a23443c3%2Fimage.png?table=block&id=169902bd-b12f-8054-9a60-fc844af24385&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
 
 </details>
 
@@ -47,24 +51,24 @@
 
 ## 📑 **요구사항 정의서**
 <details>
-## 📑 **요구사항 정의서**
+  <summary><strong>📋 요구사항 정의서 보기</strong></summary>
   
-- 요구사항 정의서  
-  ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
+  - 요구사항 정의서
+    ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
 
 </details>
 
----
+
 
 ## 📊 **기능 정의서**
 <details>
-## 📊 **기능 정의서**
+  <summary><strong>📋 기능 정의서 보기</strong></summary>
   
-- 사용자(유저) 기능 정의서  
-  ![image](https://github.com/user-attachments/assets/36f473e1-be4c-412c-aa74-a4ae4850f6ea)
+  - 사용자(유저) 기능 정의서
+    ![image](https://github.com/user-attachments/assets/36f473e1-be4c-412c-aa74-a4ae4850f6ea)
 
-- 관리자 기능 정의서  
-  ![image](https://github.com/user-attachments/assets/6e0eef6f-38a4-46fc-9309-9233e7c01a9a)
+  - 관리자 기능 정의서
+    ![image](https://github.com/user-attachments/assets/6e0eef6f-38a4-46fc-9309-9233e7c01a9a)
 
 </details>
 
@@ -72,36 +76,36 @@
 
 ## 🗂️ **ERD**
 <details>
-## 🗂️ **ERD**
+  <summary><strong>🗂️ ERD 보기</strong></summary>
   
-![ERD 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F2317d53d-12bb-40e1-bf7e-43a3f29dda8a%2Fimage.png?table=block&id=16b902bd-b12f-8032-8568-e03391399423&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1920&userId=&cache=v2)
+  ![ERD 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F2317d53d-12bb-40e1-bf7e-43a3f29dda8a%2Fimage.png?table=block&id=16b902bd-b12f-8032-8568-e03391399423&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1920&userId=&cache=v2)
 
 </details>
 
+
 ---
+
 
 ## 🛡️ **테이블 정의서**
 <details>
-## 🛡️ **테이블 정의서**
+  <summary><strong>📋 테이블 정의서 보기</strong></summary>
   
-- 회원 테이블  
-- 예약 테이블  
-- 트레이너 테이블  
-- 출입 기록 테이블  
-
+  - 회원 테이블  
+  - 예약 테이블  
+  - 트레이너 테이블  
+  - 출입 기록 테이블  
 </details>
 
 ---
 
 ## 🖥️ **스토리보드 (화면 설계서)**
 <details>
-## 🖥️ **스토리보드 (화면 설계서)**
+  <summary><strong>📺 스토리보드 보기</strong></summary>
   
-- 로그인 화면  
-- 메인 화면  
-- 예약 화면  
-- 관리자 화면  
-
+  - 로그인 화면  
+  - 메인 화면  
+  - 예약 화면  
+  - 관리자 화면  
 </details>
 
 ---
@@ -117,29 +121,30 @@
 ---
 
 ## 📝 **프로젝트 리뷰**
+
 <details>
-## 🏠 **메인 화면**
-- 메인 페이지에서 핵심 기능에 대한 접근 제공  
+  <summary><strong>🏠 메인 화면</strong></summary>
+  - 메인 페이지에서 핵심 기능에 대한 접근 제공  
 </details>
 
 <details>
-## 🧑‍🤝‍🧑 **회원가입**
-- 신규 사용자 등록 및 정보 입력  
+  <summary><strong>🧑‍🤝‍🧑 회원가입</strong></summary>
+  - 신규 사용자 등록 및 정보 입력  
 </details>
 
 <details>
-## 🔑 **로그인**
-- 사용자 로그인 및 세션 유지  
+  <summary><strong>🔑 로그인</strong></summary>
+  - 사용자 로그인 및 세션 유지  
 </details>
 
 <details>
-## 🛡️ **회원정보 수정**
-- 개인정보 수정 및 업데이트  
+  <summary><strong>🛡️ 회원정보 수정</strong></summary>
+  - 개인정보 수정 및 업데이트  
 </details>
 
 <details>
-## 📅 **PT 예약**
-- 트레이너와의 PT 일정 예약 및 확인  
+  <summary><strong>📅 PT 예약</strong></summary>
+  - 트레이너와의 PT 일정 예약 및 확인  
 </details>
 
 ---
@@ -147,3 +152,10 @@
 ## 📬 **문의 및 지원**
 - **이메일:** support@example.com  
 - **팀 GitHub:** [GitHub Repository](https://github.com/username/project)  
+
+
+
+
+
+
+
