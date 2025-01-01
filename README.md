@@ -176,12 +176,11 @@
 
 ---
 
-<details>
+
   <summary><h2>📝 <strong>종합 평가</strong></h2></summary>
   
   - **개선 할 점:** 메인 페이지에서 핵심 기능에 대한 접근 제공  
 
-</details>
 
 ---
 
