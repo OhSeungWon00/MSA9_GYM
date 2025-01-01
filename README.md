@@ -190,7 +190,7 @@
 
 
 <details>
-  <summary><h2>🖥️ <strong>구매</strong></h2></summary>
+    <summary><h2>🖥️구매</h2></summary>
   
    ![구매 화면 1](https://drive.google.com/uc?id=1NzWO2TYP_oB4soSpc6yet-DMpefrdqVf)  
    ![구매 화면 2](https://drive.google.com/uc?id=1ihFTmX9HV5qs5a4d7FoaquHDbkcHL9Di)  
@@ -204,9 +204,9 @@
 
 
 <details>
-  <summary><h2>🖥️ <strong>게시판</strong></h2></summary>
+   <summary><h2>🖥️게시판</h2></summary>
 
-  ![게시판 화면 1](https://drive.google.com/uc?id=1qyrakN2ZK3O2r-NPuLlTPgT3UbyH9YWe)  
+  ![게시판 화면 1](https://drive.google.com/uc?id=1uO0LOAOjzWHgF0A5mxLrnHFIxeSXTS-9)  
   ![게시판 화면 2](https://drive.google.com/uc?id=1mNBK5fr33Wcjmw8RDTuts-yy8jmdKUvD)  
   ![게시판 화면 3](https://drive.google.com/uc?id=1JjJ9nTbHnipXefpZvB7IYKcC4SsOKw-m)  
   ![게시판 화면 4](https://drive.google.com/uc?id=1YqUDhQAAMJrfPLT2eddZouSxMJF62Z61)  
@@ -214,8 +214,9 @@
 </details>
 
 
+
 <details>
-  <summary><h2>🖥️ **운동계획표**</h2></summary>
+  <summary><h2>🖥️운동계획표</h2></summary>
 
   ![운동계획표 화면](https://drive.google.com/uc?id=1i_Eu3jcmxAmLOztfJIER5MolzlshGXSJ)
 
