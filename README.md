@@ -81,7 +81,8 @@
 
 <details>
   <summary><h2>🛡️ <strong>테이블 정의서</strong></h2></summary>
-  ![image](https://github.com/user-attachments/assets/f69798ee-4942-4f79-aa58-4c8984913ae1)
+  https://docs.google.com/document/d/14iZwp_k89FElt0BKksWbBoR2vnavKnN6/edit
+
 
 
 
