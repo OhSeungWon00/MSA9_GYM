@@ -46,7 +46,14 @@
 ---
 
 ## 📑 **요구사항 정의서**
-![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
+<details>
+  <summary><strong>📋 요구사항 정의서 보기</strong></summary>
+  
+  - 요구사항 정의서
+    ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
+
+</details>
+
 
 
 ## 📊 **기능 정의서**
