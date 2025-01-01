@@ -82,46 +82,46 @@
 <details>
   <summary><h2>🗂️ <strong>테이블 정의서</strong></h2></summary>
 
-  **user 테이블**  
+  **users **  
   ![파일 1](https://drive.google.com/uc?export=view&id=1uIkf6OmogJD5af0uHBwp7YV3TTbpH3VZ)
 
-  **userAuth 테이블**  
+  **userAuth**  
   ![파일 2](https://drive.google.com/uc?export=view&id=1jN24i-GWXzEaQF1ihnPVtD_BxswsBx_r)
 
-  **trainer_profile 테이블**  
+  **trainer_profile**  
   ![파일 3](https://drive.google.com/uc?export=view&id=1TPs7lZxuO-pEYjJHMdNwJWV61aEUtdf9)
 
-  **파일 4**  
+  **ticket**  
   ![파일 4](https://drive.google.com/uc?export=view&id=1scpM-FcbpngM4dxbmNXPtbgUdVckzusZ)
 
-  **파일 5**  
+  **reservation**  
   ![파일 5](https://drive.google.com/uc?export=view&id=1xvzmCFNDani9r9_2bwRL4lEzRCZBXmIN)
 
-  **파일 6**  
+  **qr_code**  
   ![파일 6](https://drive.google.com/uc?export=view&id=18iWrwLE9zu-smJXRqkG0e2l2ZFN8uTqI)
 
-  **파일 7**  
+  **plan**  
   ![파일 7](https://drive.google.com/uc?export=view&id=1b2RnAr5tEDigonnXHQxR9BaWqA42da09)
 
-  **파일 8**  
+  **persistent_logins**  
   ![파일 8](https://drive.google.com/uc?export=view&id=18N74mHKPW_teWLFvMnrmO_g9BT7kMB_X)
 
-  **파일 9**  
+  **file**  
   ![파일 9](https://drive.google.com/uc?export=view&id=1LZ9m864zA8lH-9QELMlB3eMvwYrSozVY)
 
-  **파일 10**  
+  **comment**  
   ![파일 10](https://drive.google.com/uc?export=view&id=1XMzew_jB9ZQr48ADICPEvtZIUg27Fw4E)
 
-  **파일 11**  
+  **buy_list**  
   ![파일 11](https://drive.google.com/uc?export=view&id=1jBHzorTvyaTU4mbavzbr8hU-AmjM0GAV)
 
-  **파일 12**  
+  **board**  
   ![파일 12](https://drive.google.com/uc?export=view&id=1EttYQgue7v7_pV5ST8ZMe9LE25uHIALg)
 
-  **파일 13**  
+  **attendance**  
   ![파일 13](https://drive.google.com/uc?export=view&id=1XhCdlUg7401eCwPyEmInVpV7fgyPHMJJ)
 
-  **파일 14**  
+  **answer**  
   ![파일 14](https://drive.google.com/uc?export=view&id=1ecTX_u14K37SFcFf8VHYahDJGN8yru5g)
 
 </details>
