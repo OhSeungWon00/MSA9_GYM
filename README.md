@@ -81,7 +81,7 @@
 
 <details>
   <summary><h2>🛡️ <strong>테이블 정의서</strong></h2></summary>
-  https://docs.google.com/document/d/14iZwp_k89FElt0BKksWbBoR2vnavKnN6/edit
+   <img src="https://drive.google.com/uc?export=view&id=14iZwp_k89FElt0BKksWbBoR2vnavKnN6" alt="테이블 정의서 이미지">
 
 
 
