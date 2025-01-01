@@ -157,10 +157,7 @@
 <details>
   <summary><h2>🖥️ <strong>스토리보드 (화면 설계서)</strong></h2></summary>
   
-  - 로그인 화면  
-  - 메인 화면  
-  - 예약 화면  
-  - 관리자 화면  
+![관리자화면](https://drive.google.com/file/d/1dfZvqbG9ueTYVmzVRbyAmXvDNHe_Joyp/view?usp=drive_link)
 
 </details>
 
