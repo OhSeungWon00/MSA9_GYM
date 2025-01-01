@@ -82,9 +82,10 @@
 <details>
   <summary><h2>🗂️ <strong>테이블 정의서</strong></h2></summary>
   
-  ![ERD 이미지]([https://drive.google.com/uc?export=view&id=1TPA4sso-vh7Doaht-NJR5xk7n3dMVzIV](https://drive.google.com/file/d/1TPA4sso-vh7Doaht-NJR5xk7n3dMVzIV/view))
+  ![ERD 이미지](https://drive.google.com/uc?export=view&id=1TPA4sso-vh7Doaht-NJR5xk7n3dMVzIV)
 
 </details>
+
 
 ---
 
