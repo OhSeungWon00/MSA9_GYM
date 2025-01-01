@@ -81,9 +81,11 @@
 
 <details>
   <summary><h2>🗂️ <strong>테이블 정의서</strong></h2></summary>
-  
+  - user 테이블
   ![ERD 이미지](https://drive.google.com/uc?export=view&id=1TPA4sso-vh7Doaht-NJR5xk7n3dMVzIV)
 
+  - userAuth 테이블
+  ![userAuth] (https://drive.google.com/file/d/18mgbyTa8xpQcSbHx4wr193C1eCVSBoAs/view?usp=drive_link)
 </details>
 
 
@@ -124,11 +126,6 @@
 
 ---
 
-## 📬 **문의 및 지원**
-- **이메일:** support@example.com  
-- **팀 GitHub:** [**GitHub Repository**](https://github.com/username/project)  
 
----
 
-이제 각 섹션이 일관성 있게 `<details>`와 `<summary>`로 구성되었고, 제목은 강조되고 크기가 커졌습니다.  
-더 수정이 필요하거나 추가 요청이 있으면 말씀해 주세요! 😊🚀
+
