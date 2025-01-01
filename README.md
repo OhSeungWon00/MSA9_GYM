@@ -168,7 +168,7 @@
 
 
 <details>
-  <summary>👤<h3><strong>사용자</strong></h3></summary>
+  <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
   
    ![사용자 화면 1](https://drive.google.com/uc?id=1O1BXu6WmtA2OyEG3nG2A9kEhjSuktFGa)  
    ![사용자 화면 2](https://drive.google.com/uc?id=1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1)  
