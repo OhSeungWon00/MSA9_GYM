@@ -154,8 +154,10 @@
 
 ---
 
+## 🎯 **화면 설계서**
+
 <details>
-  <summary><h2>🖥️ <strong>스토리보드 (화면 설계서)</strong></h2></summary>
+  <summary><h2>🖥️ <strong>관리자</strong></h2></summary>
 
   ![화면1](https://drive.google.com/uc?id=153Nywa1Jwo9pR3tkO9ioTGSDTAjWeT6f)  
   ![화면2](https://drive.google.com/uc?id=12fL2jq4lFESM7zK8d5Zrg0GUFNjCJKbM)  
