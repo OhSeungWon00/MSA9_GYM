@@ -85,7 +85,7 @@
   **users**  
   ![파일 1](https://drive.google.com/uc?export=view&id=1uIkf6OmogJD5af0uHBwp7YV3TTbpH3VZ)
 
-  **userAuth**  
+  **user_auth**  
   ![파일 2](https://drive.google.com/uc?export=view&id=1jN24i-GWXzEaQF1ihnPVtD_BxswsBx_r)
 
   **trainer_profile**  
