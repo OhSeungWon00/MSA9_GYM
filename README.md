@@ -81,11 +81,11 @@
 
 <details>
   <summary><h2>🛡️ <strong>테이블 정의서</strong></h2></summary>
-  
-  - 회원 테이블  
-  - 예약 테이블  
-  - 트레이너 테이블  
-  - 출입 기록 테이블  
+  ![image](https://github.com/user-attachments/assets/f69798ee-4942-4f79-aa58-4c8984913ae1)
+
+
+
+ 
 
 </details>
 
