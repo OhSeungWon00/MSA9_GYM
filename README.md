@@ -166,19 +166,20 @@
 <details>
   <summary><h2>🧑‍💻 <strong>사용자</strong></h2></summary>
   
-  - [사용자 화면 1](https://drive.google.com/file/d/1PJOxVl2ABjCmOiLTY4eAbCNYK9wTBHf9/view?usp=drive_link)  
-  - [사용자 화면 2](https://drive.google.com/file/d/1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1/view?usp=drive_link)  
-  - [사용자 화면 3](https://drive.google.com/file/d/15bSdEFbeBru9B1uCSQVIPwmcM86crBPu/view?usp=drive_link)  
-  - [사용자 화면 4](https://drive.google.com/file/d/15c2rdAMuEmnWuePVZUbLWwCZBsyvlZTl/view?usp=drive_link)  
-  - [사용자 화면 5](https://drive.google.com/file/d/1clm5jBjPY96qctQZUH6FusEwS1XF_cHT/view?usp=drive_link)  
-  - [사용자 화면 6](https://drive.google.com/file/d/11ZOWSOEmw6deB-CA1sTSIDZ6xsCcjL77/view?usp=drive_link)  
-  - [사용자 화면 7](https://drive.google.com/file/d/1Royy_rLz6QXJB7fCIqL4phCMQf1iRFjD/view?usp=drive_link)  
-  - [사용자 화면 8](https://drive.google.com/file/d/1voKvWLdAeKPpy0MxVfqQbo-lr9iK-NYh/view?usp=drive_link)  
-  - [사용자 화면 9](https://drive.google.com/file/d/1pt-fA0FSDrgToliYUJ8xpbSVUdvPyIwF/view?usp=drive_link)  
-  - [사용자 화면 10](https://drive.google.com/file/d/1kB_HyRvQ0BACRceCA-hcf0pYr74aKniw/view?usp=drive_link)  
-  - [사용자 화면 11](https://drive.google.com/file/d/1J5M1lapb-Zpg_E1OkDHWdL9Plm1JYlzR/view?usp=drive_link)  
+  - ![사용자 화면 1](https://drive.google.com/uc?id=1PJOxVl2ABjCmOiLTY4eAbCNYK9wTBHf9)  
+  - ![사용자 화면 2](https://drive.google.com/uc?id=1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1)  
+  - ![사용자 화면 3](https://drive.google.com/uc?id=15bSdEFbeBru9B1uCSQVIPwmcM86crBPu)  
+  - ![사용자 화면 4](https://drive.google.com/uc?id=15c2rdAMuEmnWuePVZUbLWwCZBsyvlZTl)  
+  - ![사용자 화면 5](https://drive.google.com/uc?id=1clm5jBjPY96qctQZUH6FusEwS1XF_cHT)  
+  - ![사용자 화면 6](https://drive.google.com/uc?id=11ZOWSOEmw6deB-CA1sTSIDZ6xsCcjL77)  
+  - ![사용자 화면 7](https://drive.google.com/uc?id=1Royy_rLz6QXJB7fCIqL4phCMQf1iRFjD)  
+  - ![사용자 화면 8](https://drive.google.com/uc?id=1voKvWLdAeKPpy0MxVfqQbo-lr9iK-NYh)  
+  - ![사용자 화면 9](https://drive.google.com/uc?id=1pt-fA0FSDrgToliYUJ8xpbSVUdvPyIwF)  
+  - ![사용자 화면 10](https://drive.google.com/uc?id=1kB_HyRvQ0BACRceCA-hcf0pYr74aKniw)  
+  - ![사용자 화면 11](https://drive.google.com/uc?id=1J5M1lapb-Zpg_E1OkDHWdL9Plm1JYlzR)  
   
 </details>
+
 
 
 
