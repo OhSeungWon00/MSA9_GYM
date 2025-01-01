@@ -170,18 +170,18 @@
 <details>
   <summary><h2>🧑‍💻 <strong>사용자</strong></h2></summary>
   
-  - ![사용자 화면 1](https://drive.google.com/uc?id=1O1BXu6WmtA2OyEG3nG2A9kEhjSuktFGa)  
-  - ![사용자 화면 2](https://drive.google.com/uc?id=1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1)  
-  - ![사용자 화면 3](https://drive.google.com/uc?id=15bSdEFbeBru9B1uCSQVIPwmcM86crBPu)  
-  - ![사용자 화면 4](https://drive.google.com/uc?id=15c2rdAMuEmnWuePVZUbLWwCZBsyvlZTl)  
-  - ![사용자 화면 5](https://drive.google.com/uc?id=1clm5jBjPY96qctQZUH6FusEwS1XF_cHT)  
-  - ![사용자 화면 6](https://drive.google.com/uc?id=11ZOWSOEmw6deB-CA1sTSIDZ6xsCcjL77)  
-  - ![사용자 화면 7](https://drive.google.com/uc?id=1Royy_rLz6QXJB7fCIqL4phCMQf1iRFjD)  
-  - ![사용자 화면 8](https://drive.google.com/uc?id=1voKvWLdAeKPpy0MxVfqQbo-lr9iK-NYh)  
-  - ![사용자 화면 9](https://drive.google.com/uc?id=1pt-fA0FSDrgToliYUJ8xpbSVUdvPyIwF)  
-  - ![사용자 화면 10](https://drive.google.com/uc?id=1kB_HyRvQ0BACRceCA-hcf0pYr74aKniw)  
-  - ![사용자 화면 11](https://drive.google.com/uc?id=1J5M1lapb-Zpg_E1OkDHWdL9Plm1JYlzR)  
-  - ![사용자 화면 12](https://drive.google.com/uc?id=11kg9Bni5id0ywQ9KNXb1lOTtjZhgNCeO)  
+   ![사용자 화면 1](https://drive.google.com/uc?id=1O1BXu6WmtA2OyEG3nG2A9kEhjSuktFGa)  
+   ![사용자 화면 2](https://drive.google.com/uc?id=1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1)  
+   ![사용자 화면 3](https://drive.google.com/uc?id=15bSdEFbeBru9B1uCSQVIPwmcM86crBPu)  
+   ![사용자 화면 4](https://drive.google.com/uc?id=15c2rdAMuEmnWuePVZUbLWwCZBsyvlZTl)  
+   ![사용자 화면 5](https://drive.google.com/uc?id=1clm5jBjPY96qctQZUH6FusEwS1XF_cHT)  
+   ![사용자 화면 6](https://drive.google.com/uc?id=11ZOWSOEmw6deB-CA1sTSIDZ6xsCcjL77)  
+   ![사용자 화면 7](https://drive.google.com/uc?id=1Royy_rLz6QXJB7fCIqL4phCMQf1iRFjD)  
+   ![사용자 화면 8](https://drive.google.com/uc?id=1voKvWLdAeKPpy0MxVfqQbo-lr9iK-NYh)  
+   ![사용자 화면 9](https://drive.google.com/uc?id=1pt-fA0FSDrgToliYUJ8xpbSVUdvPyIwF)  
+   ![사용자 화면 10](https://drive.google.com/uc?id=1kB_HyRvQ0BACRceCA-hcf0pYr74aKniw)  
+   ![사용자 화면 11](https://drive.google.com/uc?id=1J5M1lapb-Zpg_E1OkDHWdL9Plm1JYlzR)  
+   ![사용자 화면 12](https://drive.google.com/uc?id=11kg9Bni5id0ywQ9KNXb1lOTtjZhgNCeO)  
   
 </details>
 
@@ -192,12 +192,12 @@
 <details>
   <summary><h2>🖥️ <strong>구매</strong></h2></summary>
   
-  - ![구매 화면 1](https://drive.google.com/uc?id=1NzWO2TYP_oB4soSpc6yet-DMpefrdqVf)  
-  - ![구매 화면 2](https://drive.google.com/uc?id=1ihFTmX9HV5qs5a4d7FoaquHDbkcHL9Di)  
-  - ![구매 화면 3](https://drive.google.com/uc?id=1QVO1rzbdXg5uWn4FMdSMjCtzTKhf2phd)  
-  - ![구매 화면 4](https://drive.google.com/uc?id=14vNoq2OgDvmC8L0wHo2WecZ7hS5CZwuA)  
-  - ![구매 화면 5](https://drive.google.com/uc?id=1SrJGinIcJ_SrdQyjRskCUQgbP-vK7HyB)  
-  - ![구매 화면 6](https://drive.google.com/uc?id=1tWKuvCN7vdryQ_Lwj9x6QKPOACXOy5Hz)  
+   ![구매 화면 1](https://drive.google.com/uc?id=1NzWO2TYP_oB4soSpc6yet-DMpefrdqVf)  
+   ![구매 화면 2](https://drive.google.com/uc?id=1ihFTmX9HV5qs5a4d7FoaquHDbkcHL9Di)  
+   ![구매 화면 3](https://drive.google.com/uc?id=1QVO1rzbdXg5uWn4FMdSMjCtzTKhf2phd)  
+   ![구매 화면 4](https://drive.google.com/uc?id=14vNoq2OgDvmC8L0wHo2WecZ7hS5CZwuA)  
+   ![구매 화면 5](https://drive.google.com/uc?id=1SrJGinIcJ_SrdQyjRskCUQgbP-vK7HyB)  
+   ![구매 화면 6](https://drive.google.com/uc?id=1tWKuvCN7vdryQ_Lwj9x6QKPOACXOy5Hz)  
   
 </details>
 
@@ -205,14 +205,19 @@
 
 <details>
   <summary><h2>🖥️ <strong>게시판</strong></h2></summary>
-  
+
+  ![게시판 화면 1](https://drive.google.com/uc?id=1qyrakN2ZK3O2r-NPuLlTPgT3UbyH9YWe)  
+  ![게시판 화면 2](https://drive.google.com/uc?id=1mNBK5fr33Wcjmw8RDTuts-yy8jmdKUvD)  
+  ![게시판 화면 3](https://drive.google.com/uc?id=1JjJ9nTbHnipXefpZvB7IYKcC4SsOKw-m)  
+  ![게시판 화면 4](https://drive.google.com/uc?id=1YqUDhQAAMJrfPLT2eddZouSxMJF62Z61)  
+
 </details>
+
 
 <details>
   <summary><h2>🖥️ <strong>운동계획표</strong></h2></summary>
-  
+  ![운동계획표](https://drive.google.com/uc?id=1i_Eu3jcmxAmLOztfJIER5MolzlshGXSJ)
 </details>
-
 
 
 
