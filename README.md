@@ -158,9 +158,12 @@
 
 <details>
   <summary><h2>🖥️ <strong>메인</strong></h2></summary>
-    https://drive.google.com/file/d/1rcpG6F48PvbI6VrX-6bmAAoeD915Q9n_/view?usp=drive_link
-    https://drive.google.com/file/d/1hEVSpboUQm9o5r213w3gJHWvmnzdczJ_/view?usp=drive_link
+  
+  - ![메인 화면 1](https://drive.google.com/uc?id=1rcpG6F48PvbI6VrX-6bmAAoeD915Q9n_)  
+  - ![메인 화면 2](https://drive.google.com/uc?id=1hEVSpboUQm9o5r213w3gJHWvmnzdczJ_)  
+  
 </details>
+
 
 
 <details>
@@ -177,6 +180,7 @@
   - ![사용자 화면 9](https://drive.google.com/uc?id=1pt-fA0FSDrgToliYUJ8xpbSVUdvPyIwF)  
   - ![사용자 화면 10](https://drive.google.com/uc?id=1kB_HyRvQ0BACRceCA-hcf0pYr74aKniw)  
   - ![사용자 화면 11](https://drive.google.com/uc?id=1J5M1lapb-Zpg_E1OkDHWdL9Plm1JYlzR)  
+  - ![사용자 화면 12](https://drive.google.com/uc?id=11kg9Bni5id0ywQ9KNXb1lOTtjZhgNCeO)  
   
 </details>
 
@@ -184,10 +188,18 @@
 
 
 
-<details>ㅗ
+<details>
   <summary><h2>🖥️ <strong>구매</strong></h2></summary>
   
+  - ![구매 화면 1](https://drive.google.com/uc?id=1NzWO2TYP_oB4soSpc6yet-DMpefrdqVf)  
+  - ![구매 화면 2](https://drive.google.com/uc?id=1ihFTmX9HV5qs5a4d7FoaquHDbkcHL9Di)  
+  - ![구매 화면 3](https://drive.google.com/uc?id=1QVO1rzbdXg5uWn4FMdSMjCtzTKhf2phd)  
+  - ![구매 화면 4](https://drive.google.com/uc?id=14vNoq2OgDvmC8L0wHo2WecZ7hS5CZwuA)  
+  - ![구매 화면 5](https://drive.google.com/uc?id=1SrJGinIcJ_SrdQyjRskCUQgbP-vK7HyB)  
+  - ![구매 화면 6](https://drive.google.com/uc?id=1tWKuvCN7vdryQ_Lwj9x6QKPOACXOy5Hz)  
+  
 </details>
+
 
 
 <details>
