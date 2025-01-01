@@ -80,13 +80,9 @@
 ---
 
 <details>
-  <summary><h2>🛡️ <strong>테이블 정의서</strong></h2></summary>
-   <img src="https://drive.google.com/uc?export=view&id=14iZwp_k89FElt0BKksWbBoR2vnavKnN6" alt="테이블 정의서 이미지">
-
-
-
-
- 
+  <summary><h2>🗂️ <strong>테이블 정의서</strong></h2></summary>
+  
+  ![ERD 이미지](https://drive.google.com/uc?export=view&id=1TPA4sso-vh7Doaht-NJR5xk7n3dMVzIV)
 
 </details>
 
