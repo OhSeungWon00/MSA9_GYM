@@ -156,9 +156,23 @@
 
 <details>
   <summary><h2>🖥️ <strong>스토리보드 (화면 설계서)</strong></h2></summary>
-  
-  ![관리자화면](https://drive.google.com/uc?id=1dfZvqbG9ueTYVmzVRbyAmXvDNHe_Joyp)
+
+  ![화면1](https://drive.google.com/uc?id=153Nywa1Jwo9pR3tkO9ioTGSDTAjWeT6f)  
+  ![화면2](https://drive.google.com/uc?id=12fL2jq4lFESM7zK8d5Zrg0GUFNjCJKbM)  
+  ![화면3](https://drive.google.com/uc?id=1Gr429NeFAUKxSkFhZn2vBj38eF-37mfd)  
+  ![화면4](https://drive.google.com/uc?id=1-97K9z_EKkNg4AxKiVI7m63kUGmqIobD)  
+  ![화면5](https://drive.google.com/uc?id=18MjR2CW3hBDcwUfaGe45ra_Jp66-dEm_)  
+  ![화면6](https://drive.google.com/uc?id=1VJ-BciCK5u3FcUxIJy1KYCUXX2P_41eB)  
+  ![화면7](https://drive.google.com/uc?id=1uuxEzLK7scoeSVOShpmy3J3yuJ63NRi1)  
+  ![화면8](https://drive.google.com/uc?id=1VGsfryN3tQ96wbblTjeKhs9IyLZTEGRg)  
+  ![화면9](https://drive.google.com/uc?id=1dfZvqbG9ueTYVmzVRbyAmXvDNHe_Joyp)  
+  ![화면10](https://drive.google.com/uc?id=1dUwCd3wUYsj_5ndBZNVifgXOH5LdjWqv)  
+  ![화면11](https://drive.google.com/uc?id=1m9Gcwv_4PrH3krgpaQk-5UaEqvrs6-Fc)  
+  ![화면12](https://drive.google.com/uc?id=1NL6cHICa1-psjZ-YmkLcv9Pb9tI_RtKb)  
+  ![화면13](https://drive.google.com/uc?id=1tNXqpTcewchG1zuWEIylpeuXeGjOVsxB)  
+
 </details>
+
 
 
 ---
