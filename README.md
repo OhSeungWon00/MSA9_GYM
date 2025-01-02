@@ -281,12 +281,13 @@
 <details>
   <summary><h3>🛒 <strong>구매</strong></h3></summary>
     
-  ![구매 화면 1](https://drive.google.com/uc?id=1mfs0TBP-93EDxgPWtjHDm4CnJVeJubfB)
-  ![구매 화면 2](https://drive.google.com/uc?id=18RUIJA9hgrSM4asnp4GHeVSeJUM5nU2U)
-  ![구매 화면 3](https://drive.google.com/uc?id=16UCc4OAfgeT_l-d5FcMf7JMQ2kZo62Oj)
-  ![구매 화면 4](https://drive.google.com/uc?id=1Vg5ufkETUEam0LcLRuNLrD_yTwCPGmRk)
-  ![구매 화면 5](https://drive.google.com/uc?id=1e2nNdmhYeJwS6UnuKpsi71-YPCO8GnGT)
-</details> 
+  ![구매 화면 1](https://drive.google.com/uc?export=view&id=1mfs0TBP-93EDxgPWtjHDm4CnJVeJubfB)
+  ![구매 화면 2](https://drive.google.com/uc?export=view&id=18RUIJA9hgrSM4asnp4GHeVSeJUM5nU2U)
+  ![구매 화면 3](https://drive.google.com/uc?export=view&id=1O1zKaSeBCMyvTAML6RTrIiW_SLpC9a0Z) 
+  ![구매 화면 4](https://drive.google.com/uc?export=view&id=1Vg5ufkETUEam0LcLRuNLrD_yTwCPGmRk)
+  ![구매 화면 5](https://drive.google.com/uc?export=view&id=1e2nNdmhYeJwS6UnuKpsi71-YPCO8GnGT)
+</details>
+
 
 ---
 
