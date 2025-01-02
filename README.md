@@ -245,6 +245,52 @@
 
 
 ---
+
+
+## 📊 **실제 화면**
+
+<details>
+  <summary><h3>🖥️ <strong>메인</strong></h3></summary>
+  
+
+  
+</details>
+
+<details>
+  <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
+  
+
+</details>
+
+<details>
+    <summary><h3>🛒구매</h3></summary>
+
+  
+</details>
+
+<details>
+   <summary><h3>📝게시판</h3></summary>
+
+</details>
+
+<details>
+  <summary><h3>🗓️운동계획표</h3></summary>
+
+
+</details>
+
+
+
+
+
+<details>
+  <summary><h3>🛠️<strong>관리자</strong></h3></summary>
+
+
+</details>
+
+
+
 &nbsp;
 ## 🎯 **주요 기능**
 ✅ 회원가입 및 로그인/로그아웃  
