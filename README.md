@@ -247,7 +247,7 @@
 ---
 &nbsp;
 
-# 📊 **실제 화면**
+# ✨📊 **실제 화면**
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
