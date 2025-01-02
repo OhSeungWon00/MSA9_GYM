@@ -249,8 +249,6 @@
 
 # 📊 **실제 화면**
 
-
-
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
   ![메인 화면 1](https://drive.google.com/uc?id=1Uc68G_fKXEXpbpQwmw_ehMtj28TQcP8E)
