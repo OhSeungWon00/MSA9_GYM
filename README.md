@@ -79,7 +79,7 @@
 ---
 
 <details>
-  <summary><h2>📃 <strong>기능 정의서</strong></h2></summary>
+  <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>
   
   - 사용자(유저) 기능 정의서  
     ![image](https://github.com/user-attachments/assets/36f473e1-be4c-412c-aa74-a4ae4850f6ea)  
