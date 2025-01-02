@@ -247,47 +247,62 @@
 ---
 &nbsp;
 
-## 📊 **실제 화면**
+# 📊 **실제 화면**
 
-<details>
-  <summary><h3>🖥️ <strong>메인</strong></h3></summary>
-  
+## 🖥️ **메인**
+![메인 화면 1](https://drive.google.com/uc?id=1Uc68G_fKXEXpbpQwmw_ehMtj28TQcP8E)
+![메인 화면 2](https://drive.google.com/uc?id=1Uo2AOU0S0dM2wE4NOvHmBgi7-4WmaeVt)
+![메인 화면 3](https://drive.google.com/uc?id=1hSRDulnuxRf6r9kk7ylSZxzFKHRB786z)
+![메인 화면 4](https://drive.google.com/uc?id=1Up9a7utmk008C51bCwTNk0_pb48Jv1id)
 
-  
-</details>
+---
 
-<details>
-  <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
-  
+## 👨‍💻 **사용자**
+![사용자 화면 1](https://drive.google.com/uc?id=1Vns8UHr9Czb7mCp0oRkMvdlziCZicLsb)
+![사용자 화면 2](https://drive.google.com/uc?id=1gKsHrmqugAXwskpHHzOj2QhOeXQhdDNS)
+![사용자 화면 3](https://drive.google.com/uc?id=1hTpezJdzQLhH3LDQCH-kPDpb6x81u74a)
+![사용자 화면 4](https://drive.google.com/uc?id=1-AcOC5ooqzOqnshUxfqrcAs0YUFyUmvD)
+![사용자 화면 5](https://drive.google.com/uc?id=1ja-sOvZ2j7p15DMnEtXviqiN_18NJiFO)
+![사용자 화면 6](https://drive.google.com/uc?id=1rLu826EyHDDes2J4IM-6gAtZn4Cc6fnO)
+![사용자 화면 7](https://drive.google.com/uc?id=121WbRNX12d6LvIDWxccaLHhtfDm-Uls_)
+![사용자 화면 8](https://drive.google.com/uc?id=15MMalJR4fd_4Sw1fhrwTd9Slbw16W2Nb)
+![사용자 화면 9](https://drive.google.com/uc?id=1uQtkwajZWYumxgvRC3jHBNLXscEqlHeo)
+![사용자 화면 10](https://drive.google.com/uc?id=1ZvEBl78uv1MwJyduIHh-0K1Vk6SXxbLd)
 
-</details>
+---
 
-<details>
-    <summary><h3>🛒구매</h3></summary>
+## 🛒 **구매**
+![구매 화면 1](https://drive.google.com/uc?id=1mfs0TBP-93EDxgPWtjHDm4CnJVeJubfB)
+![구매 화면 2](https://drive.google.com/uc?id=18RUIJA9hgrSM4asnp4GHeVSeJUM5nU2U)
+![구매 화면 3](https://drive.google.com/uc?id=16UCc4OAfgeT_l-d5FcMf7JMQ2kZo62Oj)
+![구매 화면 4](https://drive.google.com/uc?id=1Vg5ufkETUEam0LcLRuNLrD_yTwCPGmRk)
+![구매 화면 5](https://drive.google.com/uc?id=1e2nNdmhYeJwS6UnuKpsi71-YPCO8GnGT)
 
-  
-</details>
+---
 
-<details>
-   <summary><h3>📝게시판</h3></summary>
+## 📝 **게시판**
+![게시판 화면 1](https://drive.google.com/uc?id=1lhLfroTuvEUKkrS40B0SRMAAIXFGQDxh)
+![게시판 화면 2](https://drive.google.com/uc?id=1w7vIgGkxcYcaTNVFk99gEY_SWYGc5Cb_)
 
-</details>
+---
 
-<details>
-  <summary><h3>🗓️운동계획표</h3></summary>
+## 🗓️ **운동계획표**
+![운동계획표 화면](https://drive.google.com/uc?id=1sO1FP1Lua8ykdPyNZTe1AYWVymS02IGD)
 
+---
 
-</details>
-
-
-
-
-
-<details>
-  <summary><h3>🛠️<strong>관리자</strong></h3></summary>
-
-
-</details>
+## 🛠️ **관리자**
+![관리자 화면 1](https://drive.google.com/uc?id=1B8LTUYdehlfvMRUd_AXhCsrNtRSCAxP0)
+![관리자 화면 2](https://drive.google.com/uc?id=11yqmvEDOs5DemuaqLkJ0RhJ-JkmdvOAx)
+![관리자 화면 3](https://drive.google.com/uc?id=1gcoGjZpWV_wkz-ICyLhzw0Y9tHmcPOeP)
+![관리자 화면 4](https://drive.google.com/uc?id=1wtZrhqDV9H6h6NplAFcTzQ8YPuzwYTKl)
+![관리자 화면 5](https://drive.google.com/uc?id=1773uAE71llv-bJMFk-D1brLXNzU6U_ez)
+![관리자 화면 6](https://drive.google.com/uc?id=1pjCkvkHeufRn-x5q0Bw39DPuT_83-0yX)
+![관리자 화면 7](https://drive.google.com/uc?id=1gRzloprNVjySX3Ec0ZQm-fFzWgoKt9N8)
+![관리자 화면 8](https://drive.google.com/uc?id=14XyRjNqg1T7f7kY1ZfO8JKdwCuqIGOdj)
+![관리자 화면 9](https://drive.google.com/uc?id=1Dfd6QNfg9ZojGtGAkNB9r0D4V3bkWBTN)
+![관리자 화면 10](https://drive.google.com/uc?id=1JhYmLXcIyMLIJhVfyU7UqtgbpuYWDFan)
+![관리자 화면 11](https://drive.google.com/uc?id=1IKwCA9CU7cHNaaULMDOWbQ2KHbLP3AiX)
 
 
 
