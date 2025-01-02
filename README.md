@@ -249,12 +249,15 @@
 
 # 📊 **실제 화면**
 
-## 🖥️ **메인**
+
+
+<details>
+  <summary><h3>🖥️<strong>메인</strong></h3></summary>
 ![메인 화면 1](https://drive.google.com/uc?id=1Uc68G_fKXEXpbpQwmw_ehMtj28TQcP8E)
 ![메인 화면 2](https://drive.google.com/uc?id=1Uo2AOU0S0dM2wE4NOvHmBgi7-4WmaeVt)
 ![메인 화면 3](https://drive.google.com/uc?id=1hSRDulnuxRf6r9kk7ylSZxzFKHRB786z)
 ![메인 화면 4](https://drive.google.com/uc?id=1Up9a7utmk008C51bCwTNk0_pb48Jv1id)
-
+</details>
 ---
 
 ## 👨‍💻 **사용자**
