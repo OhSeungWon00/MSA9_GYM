@@ -251,16 +251,19 @@
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
+    
   ![메인 화면 1](https://drive.google.com/uc?id=1Uc68G_fKXEXpbpQwmw_ehMtj28TQcP8E)
   ![메인 화면 2](https://drive.google.com/uc?id=1Uo2AOU0S0dM2wE4NOvHmBgi7-4WmaeVt)
   ![메인 화면 3](https://drive.google.com/uc?id=1hSRDulnuxRf6r9kk7ylSZxzFKHRB786z)
   ![메인 화면 4](https://drive.google.com/uc?id=1Up9a7utmk008C51bCwTNk0_pb48Jv1id)
+  
 </details>
 
 ---
 
 <details>
   <summary><h3>👨‍💻 <strong>사용자</strong></h3></summary>
+    
   ![사용자 화면 1](https://drive.google.com/uc?id=1Vns8UHr9Czb7mCp0oRkMvdlziCZicLsb)
   ![사용자 화면 2](https://drive.google.com/uc?id=1gKsHrmqugAXwskpHHzOj2QhOeXQhdDNS)
   ![사용자 화면 3](https://drive.google.com/uc?id=1hTpezJdzQLhH3LDQCH-kPDpb6x81u74a)
@@ -277,6 +280,7 @@
 
 <details>
   <summary><h3>🛒 <strong>구매</strong></h3></summary>
+    
   ![구매 화면 1](https://drive.google.com/uc?id=1mfs0TBP-93EDxgPWtjHDm4CnJVeJubfB)
   ![구매 화면 2](https://drive.google.com/uc?id=18RUIJA9hgrSM4asnp4GHeVSeJUM5nU2U)
   ![구매 화면 3](https://drive.google.com/uc?id=16UCc4OAfgeT_l-d5FcMf7JMQ2kZo62Oj)
@@ -288,6 +292,7 @@
 
 <details>
   <summary><h3>📝 <strong>게시판</strong></h3></summary>
+    
   ![게시판 화면 1](https://drive.google.com/uc?id=1lhLfroTuvEUKkrS40B0SRMAAIXFGQDxh)
   ![게시판 화면 2](https://drive.google.com/uc?id=1w7vIgGkxcYcaTNVFk99gEY_SWYGc5Cb_)
 </details>
@@ -296,6 +301,7 @@
 
 <details>
   <summary><h3>🗓️ <strong>운동계획표</strong></h3></summary>
+    
   ![운동계획표 화면](https://drive.google.com/uc?id=1sO1FP1Lua8ykdPyNZTe1AYWVymS02IGD)
 </details>
 
@@ -303,6 +309,7 @@
 
 <details>
   <summary><h3>🛠️ <strong>관리자</strong></h3></summary>
+    
   ![관리자 화면 1](https://drive.google.com/uc?id=1B8LTUYdehlfvMRUd_AXhCsrNtRSCAxP0)
   ![관리자 화면 2](https://drive.google.com/uc?id=11yqmvEDOs5DemuaqLkJ0RhJ-JkmdvOAx)
   ![관리자 화면 3](https://drive.google.com/uc?id=1gcoGjZpWV_wkz-ICyLhzw0Y9tHmcPOeP)
