@@ -71,7 +71,7 @@
 
   <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
   
-  - 요구사항 정의서  
+  -   
     ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
 
 
