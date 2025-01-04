@@ -4,12 +4,12 @@
 
 ---
 
-## 🎥 **프로젝트 발표 영상**  
+- ## 🎥 **프로젝트 발표 영상**  
 [**발표 영상 링크**](#)
 
 ---
 
-## 📚 **프로젝트 소개**
+- ## 📚 **프로젝트 소개**
 - **주제**
     - 스마트 헬스장 통합관리 시스템
     
@@ -34,7 +34,7 @@
 
 ---
 
-## 👥 **팀 구성**
+- ## 👥 **팀 구성**
 | **이름**   | **담당 기능**                       |
 |-----------|----------------------------------|
 | **오승원** | 메인화면구성, 출석체크(QR), 출석내역관리, 출석랭킹조회, 이용권내역조회 |
@@ -45,11 +45,11 @@
 
 ---
 
-## 🗓️ **프로젝트 기간**
+- ## 🗓️ **프로젝트 기간**
 ###  **2024-11-27 ~ 2024-12-13**
 
 ---
- ## 🚀 **프로젝트 수행 절차**
+ - ## 🚀 **프로젝트 수행 절차**
  ### <span style="color:#FF5733;">1️⃣</span> **주제선정 및 기획 의도 선정**  
  ### <span style="color:#33A1FF;">2️⃣</span> **요구사항, 기능 정의서 작성, 피그마 화면 설계**  
  ### <span style="color:#33FF57;">3️⃣</span> **ERD 설계 DB, 프로젝트 구조 구축**  
@@ -60,7 +60,7 @@
 ---
 
 
-  <summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
+  - <summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
   
   ![개발 환경 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Fa15b7295-4884-4d79-a760-47e8a23443c3%2Fimage.png?table=block&id=169902bd-b12f-8054-9a60-fc844af24385&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
 
@@ -69,7 +69,7 @@
 ---
 
 
-  <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
+  - <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
   
    ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
 
@@ -78,7 +78,7 @@
 ---
 
 
-  <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>
+  - <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>
   
   - 사용자(유저) 기능 정의서
  
@@ -91,7 +91,7 @@
 ---
 
 
-  <summary><h2>🗂️ <strong>ERD</strong></h2></summary>
+  - <summary><h2>🗂️ <strong>ERD</strong></h2></summary>
   
   ![ERD 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F2317d53d-12bb-40e1-bf7e-43a3f29dda8a%2Fimage.png?table=block&id=16b902bd-b12f-8032-8568-e03391399423&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1920&userId=&cache=v2)
 
@@ -100,7 +100,7 @@
 ---
 
 <details>
-  <summary><h2>📃 <strong>테이블 정의서</strong></h2></summary>
+  - <summary><h2>📃 <strong>테이블 정의서</strong></h2></summary>
 
   **users**  
   ![파일 1](https://drive.google.com/uc?export=view&id=1uIkf6OmogJD5af0uHBwp7YV3TTbpH3VZ)
@@ -148,7 +148,7 @@
 
 ---
 &nbsp;
-# 📊 **화면 설계서**
+- # 📊 **화면 설계서**
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
@@ -162,7 +162,7 @@
 
 
 <details>
-  <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
+  - <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
   
    ![사용자 화면 1](https://drive.google.com/uc?id=1O1BXu6WmtA2OyEG3nG2A9kEhjSuktFGa)  
    ![사용자 화면 2](https://drive.google.com/uc?id=1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1)  
@@ -184,7 +184,7 @@
 
 
 <details>
-    <summary><h3>🛒구매</h3></summary>
+    - <summary><h3>🛒구매</h3></summary>
   
    ![구매 화면 1](https://drive.google.com/uc?id=1NzWO2TYP_oB4soSpc6yet-DMpefrdqVf)  
    ![구매 화면 2](https://drive.google.com/uc?id=1ihFTmX9HV5qs5a4d7FoaquHDbkcHL9Di)  
@@ -198,7 +198,7 @@
 
 
 <details>
-   <summary><h3>📝게시판</h3></summary>
+   - <summary><h3>📝게시판</h3></summary>
 
   ![게시판 화면 1](https://drive.google.com/uc?id=1uO0LOAOjzWHgF0A5mxLrnHFIxeSXTS-9)  
   ![게시판 화면 2](https://drive.google.com/uc?id=1_kohsYXQ57KAEgcDht8_iUcm63uxQSvD)  
@@ -213,7 +213,7 @@
 
 
 <details>
-  <summary><h3>🗓️운동계획표</h3></summary>
+  - <summary><h3>🗓️운동계획표</h3></summary>
 
   ![운동계획표 화면](https://drive.google.com/uc?id=1i_Eu3jcmxAmLOztfJIER5MolzlshGXSJ)
 
@@ -224,7 +224,7 @@
 
 
 <details>
-  <summary><h3>🛠️<strong>관리자</strong></h3></summary>
+  - <summary><h3>🛠️<strong>관리자</strong></h3></summary>
 
   ![화면1](https://drive.google.com/uc?id=153Nywa1Jwo9pR3tkO9ioTGSDTAjWeT6f)  
   ![화면2](https://drive.google.com/uc?id=12fL2jq4lFESM7zK8d5Zrg0GUFNjCJKbM)  
@@ -247,7 +247,7 @@
 ---
 &nbsp;
 
-# ✨📊 **실제 화면**
+- # ✨📊 **실제 화면**
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
@@ -262,7 +262,7 @@
 ---
 
 <details>
-  <summary><h3>👨‍💻 <strong>사용자</strong></h3></summary>
+ - <summary><h3>👨‍💻 <strong>사용자</strong></h3></summary>
     
   ![사용자 화면 1](https://drive.google.com/uc?id=1Vns8UHr9Czb7mCp0oRkMvdlziCZicLsb)
   ![사용자 화면 2](https://drive.google.com/uc?id=1gKsHrmqugAXwskpHHzOj2QhOeXQhdDNS)
@@ -282,7 +282,7 @@
 ---
 
 <details>
-  <summary><h3>🛒 <strong>구매</strong></h3></summary>
+  - <summary><h3>🛒 <strong>구매</strong></h3></summary>
     
   ![구매 화면 1](https://drive.google.com/uc?export=view&id=1mfs0TBP-93EDxgPWtjHDm4CnJVeJubfB)
   ![구매 화면 2](https://drive.google.com/uc?export=view&id=18RUIJA9hgrSM4asnp4GHeVSeJUM5nU2U)
@@ -295,7 +295,7 @@
 ---
 
 <details>
-  <summary><h3>📝 <strong>게시판</strong></h3></summary>
+ - <summary><h3>📝 <strong>게시판</strong></h3></summary>
     
   ![게시판 화면 1](https://drive.google.com/uc?id=1lhLfroTuvEUKkrS40B0SRMAAIXFGQDxh)
   ![게시판 화면 2](https://drive.google.com/uc?id=1w7vIgGkxcYcaTNVFk99gEY_SWYGc5Cb_)
@@ -304,7 +304,7 @@
 ---
 
 <details>
-  <summary><h3>🗓️ <strong>운동계획표</strong></h3></summary>
+  - <summary><h3>🗓️ <strong>운동계획표</strong></h3></summary>
     
   ![운동계획표 화면](https://drive.google.com/uc?id=1sO1FP1Lua8ykdPyNZTe1AYWVymS02IGD)
 </details>
@@ -312,7 +312,7 @@
 ---
 
 <details>
-  <summary><h3>🛠️ <strong>관리자</strong></h3></summary>
+  - <summary><h3>🛠️ <strong>관리자</strong></h3></summary>
     
   ![관리자 화면 1](https://drive.google.com/uc?id=1B8LTUYdehlfvMRUd_AXhCsrNtRSCAxP0)
   ![관리자 화면 2](https://drive.google.com/uc?id=11yqmvEDOs5DemuaqLkJ0RhJ-JkmdvOAx)
@@ -332,7 +332,7 @@
 
 
 &nbsp;
-# 🎯 **주요 기능**
+- # 🎯 **주요 기능**
 ## ✅ 회원가입 및 로그인/로그아웃  
 ## ✅ 실시간 헬스장 이용자 수 확인  
 ## ✅ QR코드 기반 출입 관리  
@@ -345,7 +345,7 @@
 
 
 &nbsp;
-<h2>📝 <strong>개별 평가</strong></h2>
+- <h2>📝 <strong>개별 평가</strong></h2>
 
 ## 오승원
 - **한계점**: 이번 프로젝트를 진행하며 느낀 한계점은 인공지능을 활용한 부분이 많았다는 점입니다. 물론 AI의 도움을 받는 것이 큰 도움이 되었지만, 개인적인 역량 강화를 위해 AI에 대한 의존도를 적절히 조절하고 스스로 해결하려는 노력을 좀 더 강화해야겠다고 느꼈습니다.
