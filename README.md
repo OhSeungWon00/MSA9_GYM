@@ -71,8 +71,7 @@
 
   <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
   
-     
-    ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
+   ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
 
 
 
@@ -82,11 +81,10 @@
   <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>
   
   - 사용자(유저) 기능 정의서
-    &nbsp;
-    &nbsp;
+ 
     ![image](https://github.com/user-attachments/assets/36f473e1-be4c-412c-aa74-a4ae4850f6ea)  
   - 관리자 기능 정의서
-    &nbsp;
+
     ![image](https://github.com/user-attachments/assets/6e0eef6f-38a4-46fc-9309-9233e7c01a9a)
 
 
