@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/user/qrCodePage.css">
+
+    <title>QR 코드 확인</title>
+
+</head>
+
+<body>
+    <div class="qr-container">
+        <input type="hidden" name="csrf" th:value="${_csrf.token}" />
+        <input type="hidden" name="qrCode" th:value="${qrCode.uuid}" />
+        <div class="qr-code" id="qrCodeContainer">
+            
+             <!-- Base64로 인코딩된 이미지 데이터 표시 -->
+            <img th:src="'data:image/png;base64,' + ${qrCodeBase64}" alt="QR 코드">
+        </div>
+        <div class="timer">
+            유효시간: <span id="countdown">60</span><span id="unit">초</span>
+        </div>
+        <div class="url-text" id="URLTEXT2">
+            QR 코드 URL: <a th:href="${qrCodeUrl}" target="_blank" th:text="${qrCodeUrl}" id="URLTEXT"></a>
+         
+        </div>
+        <button class="main-button" id="mainButton" onclick="goToMain()">메인으로</button>
+    </div>
+
+
+    <!-- javascript -->
+    <script src="/js/qrCodePageScript.js"></script>
+</body>
+
+</html>

@@ -99,7 +99,7 @@ public class QRCodeController {
             model.addAttribute("qrCodeBase64", qrCodeBase64);
             model.addAttribute("qrCodeUrl", qrCodeUrl); // QR 코드 URL 추가
 
-            return "qrCodePage"; // qrCodePage.html로 반환
+            return "user/qr/qrCodePage"; // qrCodePage.html로 반환
         }
 
         return "redirect:/index";

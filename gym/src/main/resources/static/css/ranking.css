@@ -12,7 +12,7 @@ html, body {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    margin: 0; /* 마진 제거 */
+    margin: 0;
 }
 
 .main {
@@ -46,6 +46,7 @@ html, body {
     justify-content: center;
     color: aliceblue;
     margin-top: 20px;
+    margin-bottom: 30px; 
 }
 
 .attendance-table {
@@ -53,6 +54,7 @@ html, body {
     color: aliceblue;
     text-align: center;
     margin-top: -60px;
+    margin-bottom: 40px;
 }
 
 th {
@@ -115,10 +117,10 @@ td {
 .footer {
     position: relative;
     width: 100%;
+    padding-top: 20px;
 }
 
-
-.btn-primary {
+.btn-primary, .btn-primary2 {
     padding: 10px 20px;
     margin: 100px 0;
     font-size: 16px;
@@ -128,87 +130,30 @@ td {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-primary {
     margin-left: 100px;
 }
 
 .btn-primary2 {
-    padding: 10px 20px;
-    margin: 100px 0;
-    font-size: 16px;
-    color: #fff;
-    background-color: #344250;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.3s ease;
     margin-left: 60px;
 }
 
-.btn-primary:hover {
+.btn-primary:hover, .btn-primary2:hover {
     background-color: #0056b3;
     transform: scale(1.05);
 }
-
-.attendance-table {
-    margin-bottom: 40px; /* 푸터와 테이블 사이의 간격 */
-}
-
-.footer {
-    padding-top: 20px;
-}
-
-.text {
-    display: flex;
-    justify-content: center;
-    color: aliceblue;
-    margin-top: 20px;
-    margin-bottom: 30px; /* 출석 랭킹과 테이블 사이의 간격 */
-}
-
-
-.btn-primary:hover {
-    background-color: #0056b3;
-    transform: scale(1.05);
-}
-
-.btn-primary2:hover {
-    background-color: #0056b3;
-    transform: scale(1.05);
-}
-
-.attendance-table {
-    margin-bottom: 40px; /* 푸터와 테이블 사이의 간격 */
-}
-
-.footer {
-    padding-top: 20px;
-}
-
-.text {
-    display: flex;
-    justify-content: center; /* 출석 랭킹 글씨를 가운데로 정렬 */
-    color: aliceblue;
-    margin-top: 20px;
-    margin-bottom: 30px; /* 출석 랭킹과 테이블 사이의 간격 */
-}
-
-
 
 .highlight {
-    background-color: #ff0; /* 하이라이트 배경색 */
-    animation: fadeOut 2s forwards; /* 페이드 아웃 애니메이션 */
+    background-color: #ff0;
+    animation: fadeOut 2s forwards;
 }
-
 
 .ranking-icon {
     width: 50px;
     height: 50px;
 }
-
-
-
-
-
 
 @keyframes fadeOut {
     from {

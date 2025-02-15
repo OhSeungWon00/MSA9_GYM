@@ -5,16 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>출석 랭킹</title>
-
-    <!-- 공통 링크 추가 -->
     <th:block th:replace="~{fragment/link::link}"></th:block>
-    <link rel="stylesheet" href="/css/attendance/ranking.css">
+    <link rel="stylesheet" href="/css/ranking.css">
 
 </head>
 
 <body class="fullBody">
 
-    <!-- 공통 헤더 추가 -->
+    <!-- header 프레그먼트 -->
     <th:block th:replace="~{fragment/header::header}"></th:block>
 
     <button>
@@ -24,7 +22,8 @@
     <div class="main">
         <div class="content1">
             <!-- 나의 순위로 이동하는 버튼 -->
-            <button id="my-ranking-btn" class="btn-primary" th:data-user-id="${user != null ? user.id : 'null'}">나의 랭킹으로 이동</button>
+            <button id="my-ranking-btn" class="btn-primary" th:data-user-id="${user != null ? user.id : 'null'}">나의 랭킹으로
+                이동</button>
         </div>
         <div class="content2">
             <div class="text">
@@ -45,13 +44,16 @@
                         <tr th:each="rank : ${rankingList}">
                             <td th:id="'rank-' + ${rank.userId}">
                                 <span th:if="${rank.rank == 1}">
-                                    <img src="img/gold.png" alt="" class="ranking-icon" style="width: 100px; height: 100px;">
+                                    <img src="img/gold.png" alt="" class="ranking-icon"
+                                        style="width: 100px; height: 100px;">
                                 </span>
                                 <span th:if="${rank.rank == 2}">
-                                    <img src="img/silver.png" alt="" class="ranking-icon" style="width: 100px; height: 100px;">
+                                    <img src="img/silver.png" alt="" class="ranking-icon"
+                                        style="width: 100px; height: 100px;">
                                 </span>
                                 <span th:if="${rank.rank == 3}">
-                                    <img src="img/bronze.png" alt="" class="ranking-icon" style="width: 100px; height: 100px;">
+                                    <img src="img/bronze.png" alt="" class="ranking-icon"
+                                        style="width: 100px; height: 100px;">
                                 </span>
                                 <span th:if="${rank.rank > 3}" th:text="${rank.rank}"></span>
                             </td>
@@ -64,58 +66,21 @@
             </div>
         </div>
         <div class="content3" style="background-color: #252323;">
-            <button id="my-ranking-btn" class="btn-primary2">1등 : 이용권 1달 무료 + PT 5회<br><br>2등 : 이용권 1달 무료<br><br>3등 : 이용권 50% 할인</button>
+            <button id="my-ranking-btn" class="btn-primary2">1등 : 이용권 1달 무료 + PT 5회<br><br>2등 : 이용권 1달 무료<br><br>3등 :
+                이용권 50% 할인</button>
         </div>
     </div>
 
-    <!-- 공통 푸터 추가 -->
+    <!-- footer 프레그먼트 -->
     <footer class="footer">
         <th:block th:replace="~{fragment/footer::footer}"></th:block>
     </footer>
 
-    <!-- 공통 스크립트 추가 -->
+    <!-- script 프레그먼트 -->
     <th:block th:replace="~{fragment/script::script}"></th:block>
 
-    <!-- 나의 랭킹으로 이동하는 JavaScript 코드 -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            console.log("Document loaded");
-
-            // 데이터 속성을 통해 사용자 ID 가져오기
-            const myUserId = document.getElementById('my-ranking-btn').getAttribute('data-user-id');
-            console.log("로그인한 사용자 ID:", myUserId);
-
-            document.getElementById('my-ranking-btn').addEventListener('click', function () {
-                console.log("My ranking button clicked");
-
-                if (myUserId === 'null' || myUserId.trim() === '') {
-                    alert("로그인이 필요한 기능입니다."); // 로그인하지 않은 경우 경고창 표시
-                    return;
-                }
-
-                const targetRank = document.getElementById(`rank-${myUserId}`);
-                if (!targetRank) {
-                    console.error("Cannot find the rank element with ID: rank-" + myUserId);
-                    alert("출석 정보가 존재하지 않습니다."); // 경고창 표시
-                    return;
-                }
-
-                console.log("찾은 랭킹 요소:", targetRank);
-
-                // 스크롤 동작
-                targetRank.scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'center'
-                });
-
-                // 하이라이트 효과 적용
-                targetRank.classList.add('highlight');
-                setTimeout(() => {
-                    targetRank.classList.remove('highlight');
-                }, 2000); // 2초 후 하이라이트 제거
-            });
-        });
-    </script>
+     <!-- javascript -->
+    <script src="/js/ranking.js"></script>
 </body>
 
 </html>

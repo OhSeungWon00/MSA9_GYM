@@ -1,74 +1,54 @@
 <body>
     <link rel="stylesheet" href="/css/attendance/list.css">
 
-    <!-- 관리자헤더 프라그먼트 -->
+    <!-- 관리자헤더 프레그먼트 -->
     <th:block th:replace="~{fragment/adminHeader::adminHeader}"></th:block>
-    <!-- 관리자페이지 메인콘텐츠 영역 틀 예시 -->
+
+
+    <!-- 관리자사이드바 프레그먼트 -->
     <div class="container">
-        <!-- 전체 컨테이너 영역 속 사이드바, 메인콘텐츠 영역 display flex 로 가로 배치 -->
         <th:block th:replace="~{fragment/adminSidebar::adminSidebar}"></th:block>
 
         <div class="main">
             <div class="inner">
                 <div class="title" style="height: 100px;">
-                    <!-- 출석 내역 표시 -->
                     <h2 style="color: rgb(0, 0, 0);">출석 내역</h2>
-                    <!-- 검색 폼 추가 -->
                 </div>
+                <form action="/admin/attendance/list" method="get" id="form" class="search">
 
-                <!-- 검색 -->
+                    <input type="text" name="keyword" placeholder="검색어를 입력해주세요." th:value="${ param.keyword }">
+                    <input type="submit" value="검색" class="button">
 
-                    <form action="/admin/attendance/list" method="get" id="form" class="search">
-                        <!-- <select name="code">
-                            <option value="0" th:selected="${option.code == 0}">전체</option>
-                            <option value="1" th:selected="${option.code == 1}">제목</option>
-                            <option value="2" th:selected="${option.code == 2}">내용</option>
-                            <option value="3" th:selected="${option.code == 3}">제목+내용</option>
-                            <option value="4" th:selected="${option.code == 4}">작성자</option>
-                        </select> -->
-                        <input type="text" name="keyword" placeholder="검색어를 입력해주세요." th:value="${ param.keyword }">
-                        <input type="submit" value="검색" class="button" >
 
-                        <!-- <select name="rows" id="rows">
-                            <option value="10" th:selected="${rows == 10}">10개씩보기</option>
-                            <option value="30" th:selected="${rows == 30}">30개씩보기</option>
-                            <option value="50" th:selected="${rows == 50}">50개씩보기</option>
-                            <option value="100" th:selected="${rows == 100}">100개씩보기</option>
-                        </select> -->
-
-                        <!-- <select name="orderCode" id="order-code">
-                            <option value="0" th:selected="${option.orderCode == 0}">최신순</option>
-                            <option value="1" th:selected="${option.orderCode == 1}">제목순</option>
-                        </select> -->
-                    </form>
-                    <div class="list">
-                        <table class="attendance-table">
-                            <thead>
+                </form>
+                <div class="list">
+                    <table class="attendance-table">
+                        <thead>
+                            <tr>
+                                <th>No</th>
+                                <th>아이디</th>
+                                <th>이름</th>
+                                <th>이메일</th>
+                                <th>핸드폰 번호</th>
+                                <th>입장 시각</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- 출석 내역이 비어있는 경우 메시지 표시 -->
+                            <th:block th:if="${attendanceList.isEmpty()}">
                                 <tr>
-                                    <th>No</th>
-                                    <th>아이디</th>
-                                    <th>이름</th>
-                                    <th>이메일</th>
-                                    <th>핸드폰 번호</th>
-                                    <th>입장 시각</th>
+                                    <td colspan="6" align="center">출석 이용자가 없습니다.</td>
                                 </tr>
-                            </thead>
-                            <tbody>
-                                <!-- 출석 내역이 비어있는 경우 메시지 표시 -->
-                                <th:block th:if="${attendanceList.isEmpty()}">
-                                    <tr>
-                                        <td colspan="6" align="center">출석 이용자가 없습니다.</td>
-                                    </tr>
-                                </th:block>
+                            </th:block>
 
-                                <!-- 출석 내역 출력 -->
-                                <tr th:each="attendance : ${attendanceList}">
-                                    <td th:text="${attendance.userNo}"></td>
-                                    <td th:text="${attendance.users.id}"></td>
-                                    <td th:text="${attendance.users.name}"></td>
-                                    <td th:text="${attendance.users.email}"></td>
-                                    <td th:text="${attendance.users.phone}"></td>
-                                    <td th:text="${#dates.format(attendance.checkTime, 'yyyy-MM-dd HH:mm:ss')}"></td>
+                            <!-- 출석 내역 출력 -->
+                            <tr th:each="attendance : ${attendanceList}">
+                                <td th:text="${attendance.userNo}"></td>
+                                <td th:text="${attendance.users.id}"></td>
+                                <td th:text="${attendance.users.name}"></td>
+                                <td th:text="${attendance.users.email}"></td>
+                                <td th:text="${attendance.users.phone}"></td>
+                                <td th:text="${#dates.format(attendance.checkTime, 'yyyy-MM-dd HH:mm:ss')}"></td>
                                 </tr>
                             </tbody>
                         </table>
