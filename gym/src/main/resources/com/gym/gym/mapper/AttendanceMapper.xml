@@ -70,6 +70,14 @@
     </insert>
 
 
+    <!-- 실시간 이용자 수 카운트 -->
+    <!-- 1시간이 지나면 안셈 -->
+ <select id="listCount" resultType="int">
+    SELECT COUNT(*)
+    FROM attendance
+    WHERE check_time &gt;= DATE_SUB(NOW(), INTERVAL 1 HOUR);
+</select>
+
     <!-- 출석 체크 (등록) 여러번 가능 -->
     <!-- <insert id="insertAttendance" parameterType="map">
          INSERT INTO attendance (qr_id, user_no)
@@ -98,12 +106,6 @@
     </select>
 
 
-
- <select id="listCount" resultType="int"> <!-- 1시간이 지나면 안셈 -->
-    SELECT COUNT(*)
-    FROM attendance
-    WHERE check_time &gt;= DATE_SUB(NOW(), INTERVAL 1 HOUR);
-</select>
 
 
 </mapper>
